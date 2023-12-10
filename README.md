@@ -1,4 +1,4 @@
-# MarketMagicAI: Stock Prediction Model using LSTM
+# Stock Prediction Model 
 This project aims to predict the future stock prices of a company using historical stock data and a Long Short-Term Memory (LSTM) model.
 
 ## Data
@@ -13,10 +13,11 @@ The results show the performance of the model on the testing data and the predic
 ## Usage
 The code for this project is written in Python and uses the following libraries:
 
-Pandas
-Numpy
-Tensorflow
-Matplotlib
+* Pandas
+* Numpy
+* Tensorflow
+* Matplotlib
+
 To run the code, clone the repository and run the python script app.py. The data used in the project is collected from a financial data provider, and should be placed in the data.csv file.
 
 ## Conclusion
